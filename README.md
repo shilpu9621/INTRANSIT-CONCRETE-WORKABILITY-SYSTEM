@@ -12,7 +12,6 @@ This project is an IoT-based In-Transit Concrete Workability Monitoring System d
 - UPS monitoring
 
 ## Modules
-
 - main.py – Main control
 - sensor.py – Sensor module
 - handle_4G.py – 4G communication
@@ -24,6 +23,5 @@ This project is an IoT-based In-Transit Concrete Workability Monitoring System d
 - sim76xx.py – SIM module
 
 ## Description
-
 This system monitors concrete workability in transit mixer using IoT sensors and 4G communication.  
 It reads sensor data, calculates flow, logs trip data, and sends information using 4G module.
